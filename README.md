@@ -4,8 +4,7 @@
   <h1 style="color: #0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff, 0 0 40px #0ff;">DamnBoy402</h1>
   
   <div style="font-size: 1.2em; margin: 10px 0">
-    <span style="color: #ff4444">Leviathan</span>
-    <span style="color: #00008b">404CT</span>
+    <span style="color: #ff4444">Leviathan404CT</span>
   </div>
 </div>
 
@@ -25,7 +24,7 @@ I am a white hat pentester, my nickname is **DamnBoy402**. I am not very good at
 - **Cybersecurity**: Penetration Testing · Network Security · Threat Analysis · Vulnerability Analysis
 - **Web Development**: MERN Stack · REST APIs · Web Security
 - **Programming**: Python · JavaScript · C/C++ · HTML · PHP
-- **Tools**: SQLMap · DoberMan · And others
+- **Tools**: SQLMap · DoberMan · And others · DH Hackbar
 
 ## 🛠️ Current Projects
 - Developing CyberSec Tools
@@ -40,11 +39,12 @@ I am a white hat pentester, my nickname is **DamnBoy402**. I am not very good at
 [![MyCyberTeamGroup](https://img.shields.io/badge/WhatsApp-Leviathan404CT?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Fc5jnng5ulL4A2YjdhdULJ)
 
 <div align="center" style="margin-top: 30px">
-  <h3 style="color: #ff4444">Leviathan</h3>
-  <h3 style="color: #00008b; margin-top: -15px">404CT</h3>
+  <h3 style="color: #ff4444">Leviathan404CT</h3>
   <p>Cybersecurity Research Team</p>
 </div>
 
 <div align="center">
   <h2 style="color: #0f0;">Stay Ethical</h2>
 </div>
+
+<!-- a bit disappointed, the css is useless here --!>
