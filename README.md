@@ -28,7 +28,8 @@ I’m part of **NoxLeviathan** (formerly *Leviathan404CyberTeam*), a unique coll
 
 - **Domains:**  
   - Cyber Security (Pentesting, Exploitation) 🔒  
-  - Full-Stack Web Development 🌐  
+  - Full-Stack Web Development 🌐
+  - Programmer 🖥️
 
 ---
 
